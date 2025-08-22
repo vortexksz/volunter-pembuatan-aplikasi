@@ -7,6 +7,6 @@ Daftar menggunakan format berikut<br>
 
 Daftar Nama yang diterima:
 * Mr Ironi, [oo.or.id](https://oo.or.id)
-* Budi ari, [Linkedin](https://www.linkedin.com/in/Budi-ari/)
+* 
 
 
